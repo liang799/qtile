@@ -1,1 +1,1 @@
-# qtile-conf# qtile
+# qtile config
